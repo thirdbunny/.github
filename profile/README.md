@@ -48,4 +48,4 @@ We take security seriously. If you discover a vulnerability or security issue, w
 
 ---
 
-[Linktree](https://linktr.ee/third_bunny) • [Website](https://www.thirdbunny.xyz/) • [Docs](#) • [X (Twitter)](https://x.com/Third_Bunny) • [Developer Hub](https://github.com/thirdbunny) • [Ronin Validator Profile](https://app.roninchain.com/validator/0x2c96d7b5d1887222025ec9f0be92fb91065d9d87) • [Zeta Athens 3 Validator Profile](https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE)
+[Linktree](https://linktr.ee/third_bunny) • [Website](https://www.thirdbunny.xyz/) • [Docs](#) • [X (Twitter)](https://x.com/Third_Bunny) • [Mail](mailto:thirdbunny.xyz) • [Developer Hub](https://github.com/thirdbunny) • [Ronin Validator Profile](https://app.roninchain.com/validator/0x2c96d7b5d1887222025ec9f0be92fb91065d9d87) • [Zeta Athens 3 Validator Profile](https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE)
