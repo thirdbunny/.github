@@ -1,39 +1,27 @@
-## Welcome to Third Bunny 👋
+# Welcome to Third Bunny 👋
 
-![Protect your transactions and outsmart malicious bots with Third Bunny's innovative Web3 security solutions.](./og-image.jpg)
+[Third Bunny](https://www.thirdbunny.xyz/) offers innovative Web3 security solutions, focusing on protection from frontrunning, sandwich attacks, and malicious bots. We provide secure private RPC endpoints and expert consulting services for blockchain users, developers, and game studios.
 
-[Third Bunny](https://www.thirdbunny.xyz/) is a Web3 security service provider dedicated to empowering decentralized ecosystems. We offer a range of services designed to protect users from frontrunning, sandwich attacks, and malicious bots, while providing robust private RPC solutions. Whether you're a blockchain user, developer, or game studio, Third Bunny ensures that your transactions and smart contracts remain secure.
+### Our Key Services
 
-### Our Services
-
-- **Private RPC Services**: Leverage our secure, private RPC endpoints to protect your transactions from malicious actors, preventing sandwich bots and other attacks.
-- **Smart Transactions**: Safeguard your dApps with smart transactions that can be scheduled in advance and are protected against malicious actors like bots. Our solution guarantees that your transactions are executed securely and efficiently, without interference from frontrunning or other exploitative tactics.
-- **Consulting Services**: We provide expert consultation in:
+- **Private RPC Services**: Protect your transactions with private endpoints, safeguarding against sandwich bots and malicious actors.
+- **Smart Transactions**: Ensure secure execution of dApp transactions, free from frontrunning and bot interference.
+- **Consulting Services**: Expert advice on:
   - Smart Contract Design
-  - Blockchain Security Consulting
-  - Web3 Integration Consulting
-- **Product Implementation Services**:
-  - Custom Private RPC Setup
-  - Anti-Bot Mechanism Development
+  - Blockchain Security
+  - Web3 Integration
+- **Product Implementation**: Custom private RPC setup and anti-bot mechanism development.
 
-### Build on Secure Foundations
+### Join Us as a Delegator
 
-With Third Bunny, you can build your dApps and blockchain projects on secure foundations. Whether you're developing an NFT marketplace, gaming dApp, or DeFi solution, we provide the tools to help you succeed and mitigate risks.
+Strengthen the blockchain by staking with us:
 
-### Become a Delegator
+- [Ronin Network Validator](https://app.roninchain.com/validator/0x2c96d7b5d1887222025ec9f0be92fb91065d9d87)
+- [Zeta Athens 3 Validator](https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE)
 
-Interested in contributing to our validator node? Join us in strengthening the blockchain ecosystem by becoming a delegator. Your participation helps maintain a secure and decentralized network.
+### Contribute to Third Bunny
 
-- [Ronin Network Validator Profile](https://app.roninchain.com/validator/0x2c96d7b5d1887222025ec9f0be92fb91065d9d87)
-- [Zeta Athens 3 Validator Profile](https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE)
-
-### Contribute to the Project
-
-Third Bunny is constantly growing, and we welcome contributions from the community. Help us improve our security solutions, optimize private RPC performance, and develop anti-bot mechanisms.
-
-- **Technologies**: Our protocols are implemented in Solidity for smart contracts, Go, and Node.js for blockchain nodes.
-- **Repositories**: Check out our pinned repositories to start contributing.
-
+Help us improve security solutions, private RPC performance, and anti-bot tools. We use **Solidity**, **Go**, and **Node.js** in our projects. Check our repositories to start contributing.
 ### Responsible Disclosure
 
 We take security seriously. If you discover a vulnerability or security issue, we encourage responsible disclosure. This allows us to address issues quickly and keep our community safe.
@@ -48,4 +36,4 @@ We take security seriously. If you discover a vulnerability or security issue, w
 
 ---
 
-[Linktree](https://linktr.ee/third_bunny) • [Website](https://www.thirdbunny.xyz/) • [Docs](#) • [X (Twitter)](https://x.com/Third_Bunny) • [Mail](mailto:thirdbunny.xyz) • [Developer Hub](https://github.com/thirdbunny) • [Ronin Validator Profile](https://app.roninchain.com/validator/0x2c96d7b5d1887222025ec9f0be92fb91065d9d87) • [Zeta Athens 3 Validator Profile](https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE)
+[Linktree](https://linktr.ee/third_bunny) • [Website](https://www.thirdbunny.xyz/) • [X (Twitter)](https://x.com/Third_Bunny) • [Mail](mailto:thirdbunny.xyz) • [Developer Hub](https://github.com/thirdbunny) • [Ronin Validator Profile](https://app.roninchain.com/validator/0x2c96d7b5d1887222025ec9f0be92fb91065d9d87) • [Zeta Athens 3 Validator Profile](https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE)
